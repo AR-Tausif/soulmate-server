@@ -1,0 +1,5 @@
+{
+  "name": "Matrimony Platform Backend",
+  "description": "Backend server for a MERN stack Matrimony platform featuring user authentication, biodata management, admin dashboard, and payment integration.",
+  "requestFramePermissions": []
+}
