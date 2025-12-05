@@ -28,14 +28,14 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: "http://localhost:5000",
+        url: "https://soulmate-server-sepia.vercel.app",
         description: "Local server",
       },
     ],
     components: {
       securitySchemes: {
         bearerAuth: {
-          type: "http",
+          type: "https",
           scheme: "bearer",
           bearerFormat: "JWT",
         },
